@@ -4,7 +4,7 @@ SEOTitle: 陆浩文的博客 | hovinlu Blog
 header-img: img/home-bg.jpg
 email: hovinlu@gmail.com
 description: "你必须足够勇敢"
-keyword: "陆浩文, hovinlu陆浩文, hovinlu, 鬼栈, hovinlupro, @hovinlupro, 陆浩文的博客, hovinlu Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "陆浩文, hovinlu, hovinlu, 陆浩文的博客, hovinlu Blog, 博客, 个人网站, 互联网, Web"
 url: "https://hovinlu.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "陆浩文，go语言开发者"
-sidebar-avatar: /img/avatar-hovinlu-ny.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-hovinlu.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
